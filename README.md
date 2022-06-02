@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  FundamentoDeLaWeb-JRivas 31/05/2022
 ¿como funciona internet?
 R:es una red de redes
@@ -23,3 +24,10 @@ ul y li
 -li es el items
 -ul es la lista
 
+=======
+# FundamentoDeLaWeb-JRivas 31/05/2022
+¿como funciona la internet?
+R:es una red de redes 
+¿que es una solicitud y una respuesta?
+R:que un navegador manda un mensaje y despues el receptor lo contesta
+>>>>>>> 2249c86a5acbf83d5304c22d2cf8a2e0feea9215
