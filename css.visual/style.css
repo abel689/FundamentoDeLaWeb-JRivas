@@ -1,0 +1,24 @@
+.titulo
+{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+span
+{
+    color: aqua;
+}
+.titulo2{
+
+    background-color: rgb(73, 7, 131);
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+}
+.titulo3{
+    background-color: rgb(0, 106, 255);
+    color: rgb(1, 6, 11);
+    text-align: right;
+    text-decoration: underline;
+    font-weight: bold;
+}
